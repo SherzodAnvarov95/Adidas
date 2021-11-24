@@ -28,7 +28,7 @@ ul {
 /* header start */
 
 .header__nav {
-    background: #322e41;
+    background: red;
 }
 
 .header__nav .container {
